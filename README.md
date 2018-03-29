@@ -1,7 +1,7 @@
 # GML
 
-# gamename
+# Gamename
 
 Bohnenspieler
 
-# concept
+# Concept
